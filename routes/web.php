@@ -18,3 +18,7 @@ Route::get('/', function () {
 Route::get('/contact', function () {
     return view('welcome');
 });
+
+Route::get('/services', function () {
+    return view('welcome');
+});
