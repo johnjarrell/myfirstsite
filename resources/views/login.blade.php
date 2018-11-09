@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laracasts Welcome
+                    Laracasts Login
                 </div>
 
                 <div class="links">
